@@ -1,6 +1,8 @@
 [![Security Pipeline](https://github.com/GuillaumeFalourd/formulas-games/actions/workflows/security_pipeline.yml/badge.svg)](https://github.com/GuillaumeFalourd/formulas-games/actions/workflows/security_pipeline.yml)
 
-# Ritchie Formulas Games
+# Formulas Games
+
+![title](https://user-images.githubusercontent.com/22433243/119173001-fd92ea00-ba3c-11eb-9314-bad231c0bbc3.png)
 
 
 ## Documentation
