@@ -5,13 +5,14 @@
 ![title](https://user-images.githubusercontent.com/22433243/119173001-fd92ea00-ba3c-11eb-9314-bad231c0bbc3.png)
 
 
-## Documentation
+## 📚 Documentation
 
 This repository contains Ritchie formulas which can be executed by [ritchie-cli](https://github.com/ZupIT/ritchie-cli).
 
 - [Ritchie CLI documentation](https://docs.ritchiecli.io)
 
-## Formulas available on this repository
+
+## 🔎 What you'll find in this repository
 
 - [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
 
@@ -29,7 +30,7 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 ![Game](/docs/img/rit-game-space-invasion-play.png)
 
-## Use Formulas
+## 📦 Use Formulas
 
 To import this repository, you need [Ritchie CLI installed](https://docs.ritchiecli.io/getting-started/install-cli)
 
@@ -41,9 +42,9 @@ rit add repo --provider="Github" --name="formulas-games" --repoUrl="https://gith
 
 Finally, you can check if the repository has been imported correctly by executing the `rit list repo` command.
 
-## Contribute to the repository with your formulas
+## ♻️ Contribute to the repository
 
-### Creating formulas
+### 🆕 Creating formulas
 
 1. Fork and clone the repository
 2. Create a branch: `git checkout -b <branch_name>`
@@ -53,7 +54,7 @@ and commit your implementation: `git commit -m '<commit_message>`
 5. Push your branch: `git push origin <project_name>/<location>`
 6. Open a pull request on the repository for analysis.
 
-### Updating Formulas
+### 🆒 Updating Formulas
 
 1. Fork and clone the repository
 2. Create a branch: `git checkout -b <branch_name>`
@@ -63,4 +64,4 @@ and commit your implementation: `git commit -m '<commit_message>`
 5. Push your branch: `git push origin <project_name>/<location>`
 6. Open a pull request on the repository for analysis.
 
-➡️ [Contribute to Ritchie community](https://github.com/ZupIT/ritchie-formulas/blob/master/CONTRIBUTING.md) 💡
+- [Contribute to Ritchie community](https://github.com/ZupIT/ritchie-formulas/blob/master/CONTRIBUTING.md)
