@@ -14,7 +14,7 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 - [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
 
-![Game](/docs/img/rit-game-dino-run-play.png)
+![Game](/docs/img/rit-game-dino-run-game.png)
 
 - [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
 
