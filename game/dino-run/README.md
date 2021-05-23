@@ -1,5 +1,9 @@
 # Ritchie Formula
 
+## Credits
+
+[Coding Shiksha video](https://www.youtube.com/watch?v=f1zxYnxgjMU)
+
 ## Command
 
 ```bash
