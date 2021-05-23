@@ -34,7 +34,7 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 - [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
 
-![Game](/docs/img/rit-game-yahtzee.jpg)
+![Game](/docs/img/rit-game-yahtzee-play.png)
 
 ## 📦 Use Formulas
 

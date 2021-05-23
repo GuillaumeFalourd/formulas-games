@@ -20,15 +20,12 @@ def run():
 class YahtzeeGame:
     def __init__(self):
         os.system('cls' if os.name == 'nt' else 'clear')
-        print("""
-            YAHTZEE
-
-            Welcome to the game. To begin, simply press [Enter]
-            and follow the instructions on the screen.
-
-            To exit, press [Ctrl+C]
-            """)
-
+        print("")
+        print("\033[36m📚 HOW TO PLAY?\033[0m")
+        print("\033[32m🟢 Start Playing YAHTZEE pressing ENTER \033[0m")
+        print("\033[38;5;214m🟠 Play following the instructions on the screen \033[0m")
+        print("\033[31m🔴 Press [Ctrl+C] to end the game! \033[0m")
+        print("")
         # Begin by instantiating the hand and scoreboard
         self.hand = Hand()
         self.scoreboard = ScoreBoard()

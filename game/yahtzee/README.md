@@ -18,4 +18,4 @@ The objective of the game is to score points by rolling five dice to make certai
 
 ## Demo
 
-![Execution](/docs/img/rit-game-yahtzee.jpg)
+![Game](/docs/img/rit-game-yahtzee-play.png)
