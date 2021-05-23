@@ -4,15 +4,17 @@
 
 ![title](https://user-images.githubusercontent.com/22433243/119173001-fd92ea00-ba3c-11eb-9314-bad231c0bbc3.png)
 
-
 ## 📚 Documentation
 
 This repository contains Ritchie formulas which can be executed by [ritchie-cli](https://github.com/ZupIT/ritchie-cli).
 
 - [Ritchie CLI documentation](https://docs.ritchiecli.io)
 
-
 ## 🔎 What you'll find in this repository
+
+- [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
+
+![Game](/docs/img/rit-game-dino-run-play.png)
 
 - [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
 
@@ -30,7 +32,7 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 ![Game](/docs/img/rit-game-space-invasion-play.png)
 
-- [Yahtzee](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
+- [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
 
 ![Game](/docs/img/rit-game-yahtzee.jpg)
 
