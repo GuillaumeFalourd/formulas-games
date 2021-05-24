@@ -71,3 +71,19 @@ and commit your implementation: `git commit -m '<commit_message>`
 6. Open a pull request on the repository for analysis.
 
 - [Contribute to Ritchie community](https://github.com/ZupIT/ritchie-formulas/blob/master/CONTRIBUTING.md)
+
+## Similar contents
+
+If you want to see similar formulas repositories:
+
+- [formulas-python](https://github.com/GuillaumeFalourd/formulas-python): Repository with Python formulas with detection or recognition tools.
+
+<img width="950" alt="title" src="https://user-images.githubusercontent.com/22433243/117589577-bdf50580-b100-11eb-9c02-5ba95ab35d89.png">
+
+- [formulas-insights](https://github.com/GuillaumeFalourd/formulas-insights): Repository with formulas getting insights from Github, LinkedIn, Google accounts.
+
+![title](https://user-images.githubusercontent.com/22433243/119176109-11d8e600-ba41-11eb-8ed7-c917ab061e56.png)
+
+- [formulas-games](https://github.com/GuillaumeFalourd/formulas-games): Repository with formulas games (pacman, space invasion, dino-rush, flappy bird...)
+
+![title](https://user-images.githubusercontent.com/22433243/119173001-fd92ea00-ba3c-11eb-9314-bad231c0bbc3.png)
