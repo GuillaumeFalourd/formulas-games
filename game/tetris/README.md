@@ -1,5 +1,9 @@
 # Ritchie Formula
 
+## Credits
+
+With the help from [https://github.com/rajatdiptabiswas/tetris-pygame](rajatdiptabiswas).
+
 ## Command
 
 ```bash
