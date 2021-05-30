@@ -36,6 +36,10 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 ![Game](/docs/img/rit-game-yahtzee-play.png)
 
+- [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
+
+![Game](/docs/img/rit-game-tetris-play.png)
+
 ## 📦 Use Formulas
 
 To import this repository, you need [Ritchie CLI installed](https://docs.ritchiecli.io/getting-started/install-cli)
