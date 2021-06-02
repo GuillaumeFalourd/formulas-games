@@ -16,25 +16,37 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 ![Game](/docs/img/rit-game-dino-run-game.png)
 
+* * *
+
 - [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
 
 ![Game](/docs/img/rit-game-flappy-bird-play.png)
+
+* * *
 
 - [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/pacman): `rit game pacman`
 
 ![Game](/docs/img/rit-game-pacman-play.png)
 
+* * *
+
 - [Snake Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/snake): `rit game snake`
 
 ![Game](/docs/img/rit-game-snake-play.png)
+
+* * *
 
 - [Space Invasion Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/space-invasion): `rit game space-invasion`
 
 ![Game](/docs/img/rit-game-space-invasion-play.png)
 
+* * *
+
 - [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
 
 ![Game](/docs/img/rit-game-yahtzee-play.png)
+
+* * *
 
 - [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
 
