@@ -10,6 +10,18 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 - [Ritchie CLI documentation](https://docs.ritchiecli.io)
 
+## 📦 Use Formulas
+
+To import this repository, you need [Ritchie CLI installed](https://docs.ritchiecli.io/getting-started/install-cli)
+
+Then, you can use the `rit add repo` command manually, or execute the command line below directly on your terminal (since CLI version 2.8.0):
+
+```bash
+rit add repo --provider="Github" --name="formulas-games" --repoUrl="https://github.com/GuillaumeFalourd/formulas-games" --priority=1
+```
+
+Finally, you can check if the repository has been imported correctly by executing the `rit list repo` command.
+
 ## 🔎 What you'll find in this repository
 
 - [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
@@ -51,18 +63,6 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 - [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
 
 ![Game](/docs/img/rit-game-tetris-play.png)
-
-## 📦 Use Formulas
-
-To import this repository, you need [Ritchie CLI installed](https://docs.ritchiecli.io/getting-started/install-cli)
-
-Then, you can use the `rit add repo` command manually, or execute the command line below directly on your terminal (since CLI version 2.8.0):
-
-```bash
-rit add repo --provider="Github" --name="formulas-games" --repoUrl="https://github.com/GuillaumeFalourd/formulas-games" --priority=1
-```
-
-Finally, you can check if the repository has been imported correctly by executing the `rit list repo` command.
 
 ## ♻️ Contribute to the repository
 
