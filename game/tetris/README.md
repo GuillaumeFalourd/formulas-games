@@ -2,7 +2,7 @@
 
 ## Credits
 
-With the help from [https://github.com/rajatdiptabiswas/tetris-pygame](rajatdiptabiswas).
+Coded inspired from [https://github.com/rajatdiptabiswas/tetris-pygame](rajatdiptabiswas).
 
 ## Command
 
@@ -12,7 +12,7 @@ rit game tetris
 
 ## Description
 
-Formula para jogar Tetris usando o Ritchie.
+Formula to play Tetris with Ritchie.
 
 ## Demo
 
