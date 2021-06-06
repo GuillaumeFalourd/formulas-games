@@ -20,6 +20,10 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 ![Game](/docs/img/rit-game-flappy-bird-play.png)
 
+- [Mario](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/mario): `rit game mario`
+
+![Game](/docs/img/rit-game-mario-play.png)
+
 - [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/pacman): `rit game pacman`
 
 ![Game](/docs/img/rit-game-pacman-play.png)
