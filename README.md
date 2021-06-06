@@ -10,40 +10,6 @@ This repository contains Ritchie formulas which can be executed by [ritchie-cli]
 
 - [Ritchie CLI documentation](https://docs.ritchiecli.io)
 
-## 🔎 What you'll find in this repository
-
-- [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
-
-![Game](/docs/img/rit-game-dino-run-game.png)
-
-- [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
-
-![Game](/docs/img/rit-game-flappy-bird-play.png)
-
-- [Mario](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/mario): `rit game mario`
-
-![Game](/docs/img/rit-game-mario-play.png)
-
-- [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/pacman): `rit game pacman`
-
-![Game](/docs/img/rit-game-pacman-play.png)
-
-- [Snake Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/snake): `rit game snake`
-
-![Game](/docs/img/rit-game-snake-play.png)
-
-- [Space Invasion Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/space-invasion): `rit game space-invasion`
-
-![Game](/docs/img/rit-game-space-invasion-play.png)
-
-- [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
-
-![Game](/docs/img/rit-game-yahtzee-play.png)
-
-- [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
-
-![Game](/docs/img/rit-game-tetris-play.png)
-
 ## 📦 Use Formulas
 
 To import this repository, you need [Ritchie CLI installed](https://docs.ritchiecli.io/getting-started/install-cli)
@@ -55,6 +21,54 @@ rit add repo --provider="Github" --name="formulas-games" --repoUrl="https://gith
 ```
 
 Finally, you can check if the repository has been imported correctly by executing the `rit list repo` command.
+
+## 🔎 What you'll find in this repository
+
+- [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
+
+![Game](/docs/img/rit-game-dino-run-game.png)
+
+* * *
+
+- [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
+
+![Game](/docs/img/rit-game-flappy-bird-play.png)
+
+* * *
+
+- [Mario](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/mario): `rit game mario`
+
+![Game](/docs/img/rit-game-mario-play.png)
+
+* * *
+
+- [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/pacman): `rit game pacman`
+
+![Game](/docs/img/rit-game-pacman-play.png)
+
+* * *
+
+- [Snake Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/snake): `rit game snake`
+
+![Game](/docs/img/rit-game-snake-play.png)
+
+* * *
+
+- [Space Invasion Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/space-invasion): `rit game space-invasion`
+
+![Game](/docs/img/rit-game-space-invasion-play.png)
+
+* * *
+
+- [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
+
+![Game](/docs/img/rit-game-yahtzee-play.png)
+
+* * *
+
+- [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
+
+![Game](/docs/img/rit-game-tetris-play.png)
 
 ## ♻️ Contribute to the repository
 
