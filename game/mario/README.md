@@ -2,7 +2,7 @@
 
 ## Credits
 
-Developed with [Zikian](https://github.com/Zikian)'s help.
+Inspired from [Zikian](https://github.com/Zikian) PyMario repository.
 
 ## Command
 
