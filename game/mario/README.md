@@ -16,7 +16,7 @@ Formula to play **Mario Bros** (level 1) with Ritchie.
 
 ## Demo
 
-![Execution](/docs/img/rit-game-game-formula.png)
+![Execution](/docs/img/rit-game-mario-formula.png)
 
 ![Menu](/docs/img/rit-game-mario-menu.png)
 
