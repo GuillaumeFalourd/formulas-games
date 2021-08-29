@@ -24,55 +24,55 @@ Finally, you can check if the repository has been imported correctly by executin
 
 ## 🔎 What you'll find in this repository
 
-- [Brick Breaker Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/brick-breaker): `rit game brick-breaker`
+- [Brick Breaker Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/brick-breaker): `rit game brick-breaker`
 
 ![Game](/docs/img/rit-game-brick-breaker-play.png)
 
 * * *
 
-- [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
+- [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/dino-run): `rit game dino-run`
 
 ![Game](/docs/img/rit-game-dino-run-game.png)
 
 * * *
 
-- [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/flappy-bird): `rit game flappy-bird`
+- [Flappy Bird Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/flappy-bird): `rit game flappy-bird`
 
 ![Game](/docs/img/rit-game-flappy-bird-play.png)
 
 * * *
 
-- [Mario](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/mario): `rit game mario`
+- [Mario](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/mario): `rit game mario`
 
 ![Game](/docs/img/rit-game-mario-play.png)
 
 * * *
 
-- [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/pacman): `rit game pacman`
+- [Pacman Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/pacman): `rit game pacman`
 
 ![Game](/docs/img/rit-game-pacman-play.png)
 
 * * *
 
-- [Snake Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/snake): `rit game snake`
+- [Snake Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/snake): `rit game snake`
 
 ![Game](/docs/img/rit-game-snake-play.png)
 
 * * *
 
-- [Space Invasion Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/space-invasion): `rit game space-invasion`
+- [Space Invasion Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/space-invasion): `rit game space-invasion`
 
 ![Game](/docs/img/rit-game-space-invasion-play.png)
 
 * * *
 
-- [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/yahtzee): `rit game yahtzee`
+- [Yahtzee Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/yahtzee): `rit game yahtzee`
 
 ![Game](/docs/img/rit-game-yahtzee-play.png)
 
 * * *
 
-- [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/tetris): `rit game tetris`
+- [Tetris Game](https://github.com/GuillaumeFalourd/formulas-python/tree/main/game/tetris): `rit game tetris`
 
 ![Game](/docs/img/rit-game-tetris-play.png)
 
@@ -98,7 +98,7 @@ and commit your implementation: `git commit -m '<commit_message>`
 5. Push your branch: `git push origin <project_name>/<location>`
 6. Open a pull request on the repository for analysis.
 
-- [Contribute to Ritchie community](https://github.com/ZupIT/ritchie-formulas/blob/master/CONTRIBUTING.md)
+- [Contribute to Ritchie community](https://github.com/ZupIT/ritchie-formulas/blob/main/CONTRIBUTING.md)
 
 ## Similar contents
 
