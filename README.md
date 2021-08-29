@@ -24,6 +24,12 @@ Finally, you can check if the repository has been imported correctly by executin
 
 ## 🔎 What you'll find in this repository
 
+- [Brick Breaker Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/brick-breaker): `rit game brick-breaker`
+
+![Game](/docs/img/rit-game-brick-breaker-play.png)
+
+* * *
+
 - [Dino Run Game](https://github.com/GuillaumeFalourd/formulas-python/tree/master/game/dino-run): `rit game dino-run`
 
 ![Game](/docs/img/rit-game-dino-run-game.png)
