@@ -2,7 +2,7 @@
 
 ## Credits
 
-Coded inspired from [https://github.com/lcswillems/python-brick-breaker](lcswillems).
+Coded inspired from [lcswillems](https://github.com/lcswillems/python-brick-breaker) repository.
 
 ## Command
 

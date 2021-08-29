@@ -2,7 +2,7 @@
 
 ## Credits
 
-Coded inspired from [https://github.com/rajatdiptabiswas/tetris-pygame](rajatdiptabiswas).
+Coded inspired from [rajatdiptabiswas](https://github.com/rajatdiptabiswas/tetris-pygame) repository.
 
 ## Command
 
